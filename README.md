@@ -19,7 +19,6 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-
 ## 🚀 Proyectos Destacados
 
 <div align="center">
@@ -31,7 +30,6 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
   </a>
 </div>
 
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -42,10 +40,6 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCast09&layout=compact&langs_count=6&theme=radical" alt="Lenguajes más usados" />
 </div>
 
----
-
-
-
 ## 🌱 Actualmente Aprendiendo
 
 <p align="center">
@@ -53,7 +47,6 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
-
 
 ## 🎯 Objetivos Profesionales
 
@@ -74,8 +67,6 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JCast09&style=flat-square&color=blueviolet" alt="Profile views"/>

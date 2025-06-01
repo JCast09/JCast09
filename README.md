@@ -26,7 +26,7 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
 
 <div align="center">
   <a href="https://github.com/JCast09/tests-w-three.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=proyecto-1&theme=radical" />
+    /* <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=proyecto-1&theme=radical" /> */
   </a>
   <a href="https://github.com/JCast09/proyecto-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=proyecto-2&theme=radical" />

@@ -37,13 +37,26 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JCast09&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCast09&theme=radical" />
+  <!-- Estadísticas con commits (incluye privados) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JCast09&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Estadísticas de GitHub" />
+  
+  <!-- Racha de contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JCast09&theme=radical" alt="Racha de GitHub" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCast09&layout=compact&theme=radical" />
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCast09&layout=compact&langs_count=6&theme=radical" alt="Lenguajes más usados" />
 </div>
+
+---
+
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JCast09&theme=radical&no-frame=true&row=1&margin-w=10" alt="Trofeos de GitHub" />
+</div>
+
 
 ## 🌱 Actualmente Aprendiendo
 

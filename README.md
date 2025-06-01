@@ -25,7 +25,7 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/JCast09/proyecto-1">
+  <a href="https://github.com/JCast09/tests-w-three.js">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=proyecto-1&theme=radical" />
   </a>
   <a href="https://github.com/JCast09/proyecto-2">

@@ -38,7 +38,8 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
 
 ## 📊 Estadísticas de GitHub
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JCast09&layout=compact&theme=radical)
+<!-- Lenguajes más usados -->
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JCast09&layout=compact&theme=radical&cache_seconds=3600)
 
 ## 🌱 Actualmente Aprendiendo
 

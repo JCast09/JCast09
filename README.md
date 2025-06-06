@@ -33,10 +33,6 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JCast09&theme=radical" alt="Racha de GitHub" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCast09&layout=compact&langs_count=6&theme=radical" alt="Lenguajes más usados" />
 </div>
 

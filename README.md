@@ -21,20 +21,24 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-  <a href="https://github.com/JCast09/tests-w-three.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=tests-w-three.js&theme=radical" />
-  </a>
-  <a href="https://github.com/JCast09/five-philosophers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=five-philosophers&theme=radical" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/JCast09/tests-w-three.js">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=tests-w-three.js&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/JCast09/five-philosophers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=five-philosophers&theme=radical&cache_seconds=60" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCast09&layout=compact&langs_count=6&theme=radical" alt="Lenguajes más usados" />
-</div>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JCast09&layout=compact&theme=radical)
 
 ## 🌱 Actualmente Aprendiendo
 

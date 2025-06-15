@@ -34,6 +34,14 @@ Actualmente estoy cursando mi carrera universitaria con enfoque en tecnologías 
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/JCast09/care-pulse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JCast09&repo=care-pulse&theme=radical&cache_seconds=60" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 ## 📊 Estadísticas de GitHub
